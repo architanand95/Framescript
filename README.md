@@ -37,3 +37,13 @@ Several recent developments in language modeling, such as Attention with Linear 
 The same has been depicted graphically in the below diagram:
 
 ![methodology](https://github.com/architanand95/framescript/assets/106612899/8c0bacf6-251c-4358-b23f-988fe71beff3)
+
+
+
+
+
+
+###Here's the link to the Kaggle notebooks
+1. Part 1: https://www.kaggle.com/code/arcanand/tdlproj1
+2. Part 2: https://www.kaggle.com/code/arcanand/tdl-proj2
+
